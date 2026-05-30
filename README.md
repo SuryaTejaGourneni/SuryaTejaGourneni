@@ -104,8 +104,7 @@ End-to-end ML microservice using Scikit-Learn (Random Forest) for real-time cust
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/customer-churn-prediction-api)
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
 ### 📊 Automated Sales Analytics Dashboard
