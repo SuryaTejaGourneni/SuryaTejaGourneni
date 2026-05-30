@@ -138,8 +138,7 @@ A custom-built personal job search engine with 25+ curated Full Stack, Data Anal
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/daily-productivity-toolkit)
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
 
