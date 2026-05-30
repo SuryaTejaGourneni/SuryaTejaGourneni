@@ -118,8 +118,6 @@ Dynamic BI dashboard in Streamlit with real-time KPI visibility. Processes 10K+ 
 </td>
 <td width="50%">
 
-<td width="50%">
-
 ### 🔍 SuryaJobs — Job Search Engine
 A custom-built personal job search engine with 25+ curated Full Stack, Data Analyst, Python & Backend roles. Features real-time skill match scoring, experience level filtering, salary filters, and one-click apply tracking that syncs to an Excel planner.
 
