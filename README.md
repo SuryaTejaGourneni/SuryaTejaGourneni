@@ -117,8 +117,7 @@ Dynamic BI dashboard in Streamlit with real-time KPI visibility. Processes 10K+ 
 
 </td>
 <td width="50%">
-</tr>
-<tr>
+
 <td width="50%">
 
 ### 🔍 SuryaJobs — Job Search Engine
