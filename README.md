@@ -117,8 +117,7 @@ Dynamic BI dashboard in Streamlit with real-time KPI visibility. Processes 10K+ 
 
 </td>
 <td width="50%">
-
-
+</tr>
 <tr>
 <td width="50%">
 
@@ -130,6 +129,8 @@ A custom-built personal job search engine with 25+ curated Full Stack, Data Anal
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/surya-jobs)
 
 </td>
+
+<tr>
 <td width="50%">
 
 ### 🛠 Daily Productivity Toolkit
