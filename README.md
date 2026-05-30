@@ -144,15 +144,6 @@ A custom-built personal job search engine with 25+ curated Full Stack, Data Anal
 <tr>
 <td width="50%">
 
-### 🔄 Excel ↔ HTML Sync Planner
-Two-way data sync system between a browser-based productivity toolkit and an Excel workbook. Exports job applications, Pomodoro sessions, DSA logs, and daily checklist history as structured CSV — and re-imports edited data back into the web app. No backend required.
-
-**Stack:** `Python` `openpyxl` `JavaScript` `File API` `Excel`
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/excel-html-sync-planner)
-
-</td>
-<td width="50%">
 
 ### 🌐 RPG Developer Portfolio
 A cinematic, game-intro styled personal portfolio built with vanilla HTML/CSS/JS. Features animated skill bars, quest-style project cards, and a full chronicle timeline.
