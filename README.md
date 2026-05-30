@@ -151,7 +151,6 @@ A cinematic, game-intro styled personal portfolio built with vanilla HTML/CSS/JS
 [![Live](https://img.shields.io/badge/Live_Demo-c9a227?style=flat-square&logo=firefox&logoColor=white)](https://suryatejagourneni.github.io)
 
 </td>
-</tr>
 </table>
 
 ---
