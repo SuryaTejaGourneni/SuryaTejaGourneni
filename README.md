@@ -92,7 +92,6 @@ A resilient ETL pipeline automating live data ingestion from Alpha Vantage REST 
 **Stack:** `Python` `Alpha Vantage API` `SQLite` `Docker`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/stock-etl-pipeline)
-![Live](https://img.shields.io/badge/Live_Demo-c9a227?style=flat-square&logo=firefox&logoColor=white)](suryateja-stock-etl.streamlit.app)
 
 </td>
 <td width="50%">
@@ -103,7 +102,6 @@ End-to-end ML microservice using Scikit-Learn (Random Forest) for real-time cust
 **Stack:** `Python` `Scikit-Learn` `FastAPI` `Docker`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/customer-churn-prediction-api)
-![Live](https://img.shields.io/badge/Live_Demo-c9a227?style=flat-square&logo=firefox&logoColor=white)](suryatejagourneni.github.io/customer-churn-prediction-api)
 
 </td>
 </tr>
@@ -116,7 +114,6 @@ Dynamic BI dashboard in Streamlit with real-time KPI visibility. Processes 10K+ 
 **Stack:** `Streamlit` `Pandas` `SQLite` `Docker Compose`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/sales-analytics-dashboard)
-![Live](https://img.shields.io/badge/Live_Demo-c9a227?style=flat-square&logo=firefox&logoColor=white)](sales-analytics-dashboard.streamlit.app)
 
 </td>
 <td width="50%">
@@ -127,7 +124,6 @@ A custom-built personal job search engine with 25+ curated Full Stack, Data Anal
 **Stack:** `HTML` `CSS` `JavaScript` `LocalStorage`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/surya-jobs)
-![Live](https://img.shields.io/badge/Live_Demo-c9a227?style=flat-square&logo=firefox&logoColor=white)](suryatejagourneni.github.io/surya-jobs)
 
 </td>
 </tr>
@@ -140,7 +136,6 @@ A custom-built personal job search engine with 25+ curated Full Stack, Data Anal
 **Stack:** `HTML` `CSS` `JavaScript` `LocalStorage`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/daily-productivity-toolkit)
-![Live](https://img.shields.io/badge/Live_Demo-c9a227?style=flat-square&logo=firefox&logoColor=white)](suryatejagourneni.github.io/daily-productivity-toolkit)
 
 </td>
 
