@@ -21,11 +21,11 @@
 name:       SuryaTeja Gourneni
 location:   United States
 role:       Full Stack Java Developer & Data Analyst
-experience: 4+ years
+experience: 6+ years
 education:
   - MS Computer Science — Southern University A&M College
   - DBA (In Progress) — Belhaven University, Jackson MS
-currently:  Python Developer / Data Analyst @ Sabre Corporation
+currently:  Senior Java Full Stack Developer @ UnitedHealth Group
 interests:  [AI/ML, Data Engineering, Cloud Architecture, Scalable Systems]
 ```
 
@@ -174,8 +174,9 @@ A cinematic, game-intro styled personal portfolio built with vanilla HTML/CSS/JS
 
 | Period | Role | Company |
 |--------|------|---------|
-| Nov 2023 – Dec 2025 | Python Developer / Data Analyst | **Sabre Corporation** |
-| Nov 2022 – Nov 2023 | Full Stack Java Developer | **Dell Technologies** · Austin, TX |
+| Jan 2025 - Present | Senior Java Full Stack Developer | **UnitedHealth Group** |
+| Jan 2024 - Jan 2025 | Full Stack Java Developer | **CitiOne** |
+| Jun 2020 - Dec 2023 | Senior Full Stack Java Developer | **Capital Markets** |
 
 ---
 
