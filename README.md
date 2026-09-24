@@ -175,7 +175,7 @@ A cinematic, game-intro styled personal portfolio built with vanilla HTML/CSS/JS
 | Period | Role | Company |
 |--------|------|---------|
 | Jan 2025 - Present | Senior Java Full Stack Developer | **UnitedHealth Group** |
-| Jan 2024 - Jan 2025 | Full Stack Java Developer | **Citione International** |
+| Jan 2024 - Jan 2025 | Full Stack Java Developer | **Citi Bank** |
 | Jun 2020 - Dec 2023 | Senior Full Stack Java Developer | **RBC Capital Markets** |
 
 ---
