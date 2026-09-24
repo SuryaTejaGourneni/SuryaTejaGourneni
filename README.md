@@ -118,18 +118,6 @@ Dynamic BI dashboard in Streamlit with real-time KPI visibility. Processes 10K+ 
 </td>
 <td width="50%">
 
-### 🔍 SuryaJobs — Job Search Engine
-A custom-built personal job search engine with 25+ curated Full Stack, Data Analyst, Python & Backend roles. Features real-time skill match scoring, experience level filtering, salary filters, and one-click apply tracking that syncs to an Excel planner.
-
-**Stack:** `HTML` `CSS` `JavaScript` `LocalStorage`
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SuryaTejaGourneni/surya-jobs)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🛠 Daily Productivity Toolkit
 10-tool browser-based productivity suite: Cover Letter Generator, Resume Tailor with keyword matching, DSA Problem Timer, STAR Answer Builder, System Design Flashcards (20 cards), Pomodoro Timer, Study Notes, Reading Tracker, and Daily Checklist with streak tracking.
 
@@ -139,17 +127,6 @@ A custom-built personal job search engine with 25+ curated Full Stack, Data Anal
 
 </td>
 
-<td width="50%">
-
-
-### 🌐 RPG Developer Portfolio
-A cinematic, game-intro styled personal portfolio built with vanilla HTML/CSS/JS. Features animated skill bars, quest-style project cards, and a full chronicle timeline.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-[![Live](https://img.shields.io/badge/Live_Demo-c9a227?style=flat-square&logo=firefox&logoColor=white)](https://suryatejagourneni.github.io)
-
-</td>
 
 </table>
 
